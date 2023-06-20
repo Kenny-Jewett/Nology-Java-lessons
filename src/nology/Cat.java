@@ -1,6 +1,6 @@
 package nology;
 
-public class Cat extends Animal {
+public class Cat extends Animal implements CanMakeSound{
 
     public Cat(String name, int age, String color) {
         this.name = name;

@@ -70,10 +70,10 @@ public class Main {
 //
 //        Animal.userCity();
 
-        Dog dog1 = new Dog("Fido");
-        dog1.favoriteFood();
-        Cat cat1 = new Cat("Mittens");
-        cat1.favoriteFood();
+//        Dog dog1 = new Dog("Fido");
+//        dog1.favoriteFood();
+//        Cat cat1 = new Cat("Mittens");
+//        cat1.favoriteFood();
 
 
     }

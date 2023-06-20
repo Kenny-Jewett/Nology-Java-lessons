@@ -35,9 +35,9 @@ public abstract class Animal {
         this.age = age;
     }
 
-    public void makeSound() {
-        System.out.println("Sound");
-    }
+//    public void makeSound() {
+//        System.out.println("Sound");
+//    }
 
     public static void print() {
         System.out.println("This is a static method!");
