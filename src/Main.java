@@ -76,5 +76,13 @@ public class Main {
 //        cat1.favoriteFood();
 
 
+
+        Calculator calc1 = new Calculator();
+        FloatCalc floatCalc = new FloatCalc();
+        System.out.println(calc1.range(1, 10));
+
+
+
+
     }
 }
