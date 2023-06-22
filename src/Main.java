@@ -79,7 +79,7 @@ public class Main {
 
         Calculator calc1 = new Calculator();
         FloatCalc floatCalc = new FloatCalc();
-        System.out.println(calc1.range(1, 10));
+       calc1.printPrimeFactors(174);
 
 
 
